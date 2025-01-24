@@ -1,3 +1,4 @@
 # project-universe
-this is my first repository
-auther - Rohan Baral
+This is my first Git Repository
+<br>
+Author - Rohan Baral
